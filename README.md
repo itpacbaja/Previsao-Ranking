@@ -1,2 +1,2 @@
 # Previsao-Ranking
-Web scrap with BS, Linear regression, deply using Flask
+Web scrap with BeautfulSoup, Linear regression, deploy using Flask
